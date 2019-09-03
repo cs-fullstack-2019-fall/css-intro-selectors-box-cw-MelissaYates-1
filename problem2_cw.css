@@ -1,0 +1,23 @@
+p{
+    background-color: gray;
+    margin-right: 10%;
+}
+
+.secondParagraph{
+    background-color: blue;
+    text-align: center;
+}
+
+.post, .quote{
+    background-color: pink;
+    padding-bottom: 10px;
+}
+
+#text{
+    width = 500px;
+    height = 100px;
+    padding = 10px;
+    dashed border = 3px;
+    text-align: center;
+
+}
